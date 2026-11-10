@@ -1,0 +1,60 @@
+[04-Aug-2025 13:27:04 UTC] PHP Warning:  require(/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:27:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wsolla/modern-art-home.com/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:27:05 UTC] PHP Warning:  require(/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:27:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wsolla/modern-art-home.com/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:27:06 UTC] PHP Warning:  require(/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:27:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wsolla/modern-art-home.com/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:27:06 UTC] PHP Warning:  require(/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:27:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wsolla/modern-art-home.com/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:27:07 UTC] PHP Warning:  require(/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:27:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wsolla/modern-art-home.com/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:43:48 UTC] PHP Warning:  require(/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:43:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wsolla/modern-art-home.com/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:51:58 UTC] PHP Warning:  require(/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:51:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wsolla/modern-art-home.com/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:52:18 UTC] PHP Warning:  require(/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 13:52:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wsolla/modern-art-home.com/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 14:10:19 UTC] PHP Warning:  require(/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 14:10:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wsolla/modern-art-home.com/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 14:10:20 UTC] PHP Warning:  require(/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 14:10:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wsolla/modern-art-home.com/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 14:33:43 UTC] PHP Warning:  require(/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 14:33:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wsolla/modern-art-home.com/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 14:35:53 UTC] PHP Warning:  require(/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/wsolla/modern-art-home.com/index.php on line 35
+[04-Aug-2025 14:35:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/wsolla/modern-art-home.com/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wsolla/modern-art-home.com/index.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wsolla/modern-art-home.com/index.php on line 35

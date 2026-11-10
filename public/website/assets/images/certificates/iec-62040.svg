@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+    <linearGradient id="indigoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="goldGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="50%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <filter id="shadow3" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="580" fill="url(#bgGrad3)" rx="16"/>
+  <rect x="24" y="24" width="752" height="532" fill="none" stroke="#312e81" stroke-width="3" rx="10"/>
+  <rect x="34" y="34" width="732" height="512" fill="none" stroke="url(#goldGrad3)" stroke-width="1.5" rx="8"/>
+  <rect x="40" y="40" width="720" height="500" fill="none" stroke="#312e81" stroke-width="0.5" stroke-dasharray="4,4"/>
+
+  <g fill="none" stroke="url(#goldGrad3)" stroke-width="2">
+    <path d="M 46 66 L 46 46 L 66 46"/>
+    <path d="M 754 66 L 754 46 L 734 46"/>
+    <path d="M 46 514 L 46 534 L 66 534"/>
+    <path d="M 754 514 L 754 534 L 734 534"/>
+  </g>
+
+  <g opacity="0.04" transform="translate(400, 290)">
+    <text font-family="'Inter', sans-serif" font-size="140" font-weight="900" fill="#4f46e5" text-anchor="middle" dominant-baseline="middle">IEC</text>
+  </g>
+
+  <text x="400" y="95" font-family="'Inter', sans-serif" font-size="13" font-weight="700" fill="#4f46e5" letter-spacing="4" text-anchor="middle">INTERNATIONAL ELECTROTECHNICAL COMMISSION</text>
+  <text x="400" y="145" font-family="'Inter', Georgia, serif" font-size="34" font-weight="900" fill="#0f172a" letter-spacing="2" text-anchor="middle">PERFORMANCE TEST CERTIFICATE</text>
+  <line x1="260" y1="165" x2="540" y2="165" stroke="url(#goldGrad3)" stroke-width="2"/>
+
+  <text x="400" y="200" font-family="'Inter', sans-serif" font-size="13" fill="#64748b" text-anchor="middle">This verifies that the Power Protection Apparatus produced by:</text>
+  <text x="400" y="245" font-family="'Inter', sans-serif" font-size="28" font-weight="900" fill="#4f46e5" letter-spacing="1.5" text-anchor="middle">VOLTERA INFRASTRUCTURE SYSTEMS</text>
+  <text x="400" y="285" font-family="'Inter', sans-serif" font-size="13" fill="#475569" text-anchor="middle">Has achieved maximum classification under International Standard:</text>
+
+  <rect x="200" y="305" width="400" height="52" rx="10" fill="#312e81" filter="url(#shadow3)"/>
+  <text x="400" y="340" font-family="'Inter', sans-serif" font-size="23" font-weight="900" fill="#fbbf24" letter-spacing="2" text-anchor="middle">IEC 62040-3 : CLASS 1</text>
+
+  <text x="400" y="390" font-family="'Inter', sans-serif" font-size="12" fill="#334155" text-anchor="middle" font-weight="600">Classification: VFI-SS-111 (Voltage &amp; Frequency Independent, True Online Double Conversion)</text>
+  <text x="400" y="412" font-family="'Inter', sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Verified zero transfer time, dynamic step load response &amp; 97.2% high-efficiency operation</text>
+
+  <g transform="translate(130, 480)">
+    <line x1="0" y1="0" x2="160" y2="0" stroke="#94a3b8" stroke-width="1.5"/>
+    <text x="80" y="20" font-family="'Inter', sans-serif" font-size="11" font-weight="700" fill="#0f172a" text-anchor="middle">Lead Test Engineer</text>
+    <text x="80" y="36" font-family="'Inter', sans-serif" font-size="9" fill="#64748b" text-anchor="middle">Intertek Electrical Testing Lab</text>
+  </g>
+
+  <g transform="translate(400, 485)">
+    <path d="M -16 10 L -28 65 L -10 55 L 0 65 L 0 10 Z" fill="#312e81"/>
+    <path d="M 16 10 L 28 65 L 10 55 L 0 65 L 0 10 Z" fill="#4338ca"/>
+    <circle r="36" fill="url(#goldGrad3)" stroke="#b45309" stroke-width="2" filter="url(#shadow3)"/>
+    <circle r="30" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="3,2"/>
+    <circle r="22" fill="#312e81"/>
+    <text x="0" y="6" font-family="'Inter', sans-serif" font-size="11" font-weight="900" fill="#ffffff" text-anchor="middle">IEC</text>
+  </g>
+
+  <g transform="translate(510, 480)">
+    <line x1="0" y1="0" x2="160" y2="0" stroke="#94a3b8" stroke-width="1.5"/>
+    <text x="80" y="20" font-family="'Inter', sans-serif" font-size="11" font-weight="700" fill="#0f172a" text-anchor="middle">Report: IEC-62040-CL1</text>
+    <text x="80" y="36" font-family="'Inter', sans-serif" font-size="9" fill="#10b981" font-weight="700" text-anchor="middle">Status: Valid Until 2028</text>
+  </g>
+</svg>

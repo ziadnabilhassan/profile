@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#fffbeb"/>
+    </linearGradient>
+    <linearGradient id="amberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b45309"/>
+      <stop offset="100%" stop-color="#451a03"/>
+    </linearGradient>
+    <linearGradient id="goldGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="50%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <filter id="shadow5" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="580" fill="url(#bgGrad5)" rx="16"/>
+  <rect x="24" y="24" width="752" height="532" fill="none" stroke="#78350f" stroke-width="3" rx="10"/>
+  <rect x="34" y="34" width="732" height="512" fill="none" stroke="url(#goldGrad5)" stroke-width="1.5" rx="8"/>
+  <rect x="40" y="40" width="720" height="500" fill="none" stroke="#78350f" stroke-width="0.5" stroke-dasharray="4,4"/>
+
+  <g fill="none" stroke="url(#goldGrad5)" stroke-width="2">
+    <path d="M 46 66 L 46 46 L 66 46"/>
+    <path d="M 754 66 L 754 46 L 734 46"/>
+    <path d="M 46 514 L 46 534 L 66 534"/>
+    <path d="M 754 514 L 754 534 L 734 534"/>
+  </g>
+
+  <g opacity="0.04" transform="translate(400, 290)">
+    <text font-family="'Inter', sans-serif" font-size="140" font-weight="900" fill="#78350f" text-anchor="middle" dominant-baseline="middle">UL</text>
+  </g>
+
+  <text x="400" y="95" font-family="'Inter', sans-serif" font-size="13" font-weight="700" fill="#b45309" letter-spacing="4" text-anchor="middle">UNDERWRITERS LABORATORIES COMPLIANCE</text>
+  <text x="400" y="145" font-family="'Inter', Georgia, serif" font-size="34" font-weight="900" fill="#0f172a" letter-spacing="2" text-anchor="middle">CERTIFICATE OF COMPLIANCE</text>
+  <line x1="260" y1="165" x2="540" y2="165" stroke="url(#goldGrad5)" stroke-width="2"/>
+
+  <text x="400" y="200" font-family="'Inter', sans-serif" font-size="13" fill="#64748b" text-anchor="middle">This is to certify that representative samples of:</text>
+  <text x="400" y="245" font-family="'Inter', sans-serif" font-size="28" font-weight="900" fill="#78350f" letter-spacing="1.5" text-anchor="middle">VOLTERA INFRASTRUCTURE SYSTEMS</text>
+  <text x="400" y="285" font-family="'Inter', sans-serif" font-size="13" fill="#475569" text-anchor="middle">Have been investigated by UL in accordance with North American Standards:</text>
+
+  <rect x="200" y="305" width="400" height="52" rx="10" fill="#78350f" filter="url(#shadow5)"/>
+  <text x="400" y="340" font-family="'Inter', sans-serif" font-size="22" font-weight="900" fill="#fbbf24" letter-spacing="2" text-anchor="middle">UL 1778 &amp; UL 9540 LISTED</text>
+
+  <text x="400" y="390" font-family="'Inter', sans-serif" font-size="12" fill="#334155" text-anchor="middle" font-weight="600">Standard for Uninterruptible Power Supply Equipment &amp; Energy Storage Systems (BESS)</text>
+  <text x="400" y="412" font-family="'Inter', sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Verified Thermal Runaway Containment, High Fault Current Isolation &amp; NFPA 855 Compliance</text>
+
+  <g transform="translate(130, 480)">
+    <line x1="0" y1="0" x2="160" y2="0" stroke="#94a3b8" stroke-width="1.5"/>
+    <text x="80" y="20" font-family="'Inter', sans-serif" font-size="11" font-weight="700" fill="#0f172a" text-anchor="middle">UL Staff Engineer</text>
+    <text x="80" y="36" font-family="'Inter', sans-serif" font-size="9" fill="#64748b" text-anchor="middle">Underwriters Laboratories LLC</text>
+  </g>
+
+  <g transform="translate(400, 485)">
+    <path d="M -16 10 L -28 65 L -10 55 L 0 65 L 0 10 Z" fill="#78350f"/>
+    <path d="M 16 10 L 28 65 L 10 55 L 0 65 L 0 10 Z" fill="#b45309"/>
+    <circle r="36" fill="url(#goldGrad5)" stroke="#b45309" stroke-width="2" filter="url(#shadow5)"/>
+    <circle r="30" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="3,2"/>
+    <circle r="22" fill="#78350f"/>
+    <text x="0" y="6" font-family="'Inter', sans-serif" font-size="13" font-weight="900" fill="#ffffff" text-anchor="middle">UL</text>
+  </g>
+
+  <g transform="translate(510, 480)">
+    <line x1="0" y1="0" x2="160" y2="0" stroke="#94a3b8" stroke-width="1.5"/>
+    <text x="80" y="20" font-family="'Inter', sans-serif" font-size="11" font-weight="700" fill="#0f172a" text-anchor="middle">Listing File: E-483011</text>
+    <text x="80" y="36" font-family="'Inter', sans-serif" font-size="9" fill="#10b981" font-weight="700" text-anchor="middle">Status: Valid Until 2028</text>
+  </g>
+</svg>

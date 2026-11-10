@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f0f9ff"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0c4a6e"/>
+    </linearGradient>
+    <linearGradient id="goldGrad6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="50%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <filter id="shadow6" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="580" fill="url(#bgGrad6)" rx="16"/>
+  <rect x="24" y="24" width="752" height="532" fill="none" stroke="#0c4a6e" stroke-width="3" rx="10"/>
+  <rect x="34" y="34" width="732" height="512" fill="none" stroke="url(#goldGrad6)" stroke-width="1.5" rx="8"/>
+  <rect x="40" y="40" width="720" height="500" fill="none" stroke="#0c4a6e" stroke-width="0.5" stroke-dasharray="4,4"/>
+
+  <g fill="none" stroke="url(#goldGrad6)" stroke-width="2">
+    <path d="M 46 66 L 46 46 L 66 46"/>
+    <path d="M 754 66 L 754 46 L 734 46"/>
+    <path d="M 46 514 L 46 534 L 66 534"/>
+    <path d="M 754 514 L 754 534 L 734 534"/>
+  </g>
+
+  <g opacity="0.04" transform="translate(400, 290)">
+    <circle r="120" fill="#0284c7"/>
+  </g>
+
+  <text x="400" y="95" font-family="'Inter', sans-serif" font-size="13" font-weight="700" fill="#0284c7" letter-spacing="4" text-anchor="middle">OCCUPATIONAL HEALTH &amp; SAFETY BOARD</text>
+  <text x="400" y="145" font-family="'Inter', Georgia, serif" font-size="34" font-weight="900" fill="#0f172a" letter-spacing="2" text-anchor="middle">MANAGEMENT SYSTEM CERTIFICATE</text>
+  <line x1="260" y1="165" x2="540" y2="165" stroke="url(#goldGrad6)" stroke-width="2"/>
+
+  <text x="400" y="200" font-family="'Inter', sans-serif" font-size="13" fill="#64748b" text-anchor="middle">This certifies that the Occupational Health &amp; Safety System of:</text>
+  <text x="400" y="245" font-family="'Inter', sans-serif" font-size="28" font-weight="900" fill="#0284c7" letter-spacing="1.5" text-anchor="middle">VOLTERA INFRASTRUCTURE SYSTEMS</text>
+  <text x="400" y="285" font-family="'Inter', sans-serif" font-size="13" fill="#475569" text-anchor="middle">Has been assessed and certified as meeting the requirements of:</text>
+
+  <rect x="220" y="305" width="360" height="52" rx="10" fill="#0c4a6e" filter="url(#shadow6)"/>
+  <text x="400" y="340" font-family="'Inter', sans-serif" font-size="24" font-weight="900" fill="#fbbf24" letter-spacing="3" text-anchor="middle">ISO 45001 : 2018</text>
+
+  <text x="400" y="390" font-family="'Inter', sans-serif" font-size="12" fill="#334155" text-anchor="middle" font-weight="600">Scope: High-Voltage Electrical Safety, Hazard Mitigation &amp; Industrial Zero-Harm Standards</text>
+  <text x="400" y="412" font-family="'Inter', sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Commissioning, Maintenance and Factory Testing of Mission-Critical Power Architectures</text>
+
+  <g transform="translate(130, 480)">
+    <line x1="0" y1="0" x2="160" y2="0" stroke="#94a3b8" stroke-width="1.5"/>
+    <text x="80" y="20" font-family="'Inter', sans-serif" font-size="11" font-weight="700" fill="#0f172a" text-anchor="middle">Safety Director</text>
+    <text x="80" y="36" font-family="'Inter', sans-serif" font-size="9" fill="#64748b" text-anchor="middle">SGS United Kingdom Ltd</text>
+  </g>
+
+  <g transform="translate(400, 485)">
+    <path d="M -16 10 L -28 65 L -10 55 L 0 65 L 0 10 Z" fill="#0c4a6e"/>
+    <path d="M 16 10 L 28 65 L 10 55 L 0 65 L 0 10 Z" fill="#0284c7"/>
+    <circle r="36" fill="url(#goldGrad6)" stroke="#b45309" stroke-width="2" filter="url(#shadow6)"/>
+    <circle r="30" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="3,2"/>
+    <circle r="22" fill="#0c4a6e"/>
+    <text x="0" y="-3" font-family="'Inter', sans-serif" font-size="8" font-weight="800" fill="#fbbf24" text-anchor="middle">SAFETY</text>
+    <text x="0" y="9" font-family="'Inter', sans-serif" font-size="9" font-weight="900" fill="#ffffff" text-anchor="middle">AUDITED</text>
+  </g>
+
+  <g transform="translate(510, 480)">
+    <line x1="0" y1="0" x2="160" y2="0" stroke="#94a3b8" stroke-width="1.5"/>
+    <text x="80" y="20" font-family="'Inter', sans-serif" font-size="11" font-weight="700" fill="#0f172a" text-anchor="middle">Reg ID: SGS-OHS-7721</text>
+    <text x="80" y="36" font-family="'Inter', sans-serif" font-size="9" fill="#10b981" font-weight="700" text-anchor="middle">Status: Valid Until 2027</text>
+  </g>
+</svg>

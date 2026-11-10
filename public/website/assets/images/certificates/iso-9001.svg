@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="50%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="580" fill="url(#bgGrad)" rx="16"/>
+
+  <!-- Ornate Double Borders -->
+  <rect x="24" y="24" width="752" height="532" fill="none" stroke="#0f172a" stroke-width="3" rx="10"/>
+  <rect x="34" y="34" width="732" height="512" fill="none" stroke="url(#goldGrad)" stroke-width="1.5" rx="8"/>
+  <rect x="40" y="40" width="720" height="500" fill="none" stroke="#0f172a" stroke-width="0.5" stroke-dasharray="4,4"/>
+
+  <!-- Corner Ornaments -->
+  <g fill="none" stroke="url(#goldGrad)" stroke-width="2">
+    <path d="M 46 66 L 46 46 L 66 46"/>
+    <path d="M 754 66 L 754 46 L 734 46"/>
+    <path d="M 46 514 L 46 534 L 66 534"/>
+    <path d="M 754 514 L 754 534 L 734 534"/>
+  </g>
+
+  <!-- Watermark Logo -->
+  <g opacity="0.04" transform="translate(400, 290) scale(1.8)">
+    <circle r="120" fill="#0284c7"/>
+    <path d="M -40 -60 L 20 -10 L -20 10 L 40 70" stroke="#000" stroke-width="20" fill="none"/>
+  </g>
+
+  <!-- Header -->
+  <text x="400" y="95" font-family="'Inter', sans-serif" font-size="13" font-weight="700" fill="#0284c7" letter-spacing="4" text-anchor="middle">INTERNATIONAL ACCREDITATION SERVICES</text>
+  <text x="400" y="145" font-family="'Inter', Georgia, serif" font-size="34" font-weight="900" fill="#0f172a" letter-spacing="2" text-anchor="middle">CERTIFICATE OF REGISTRATION</text>
+  <line x1="260" y1="165" x2="540" y2="165" stroke="url(#goldGrad)" stroke-width="2"/>
+
+  <!-- Subtitle -->
+  <text x="400" y="200" font-family="'Inter', sans-serif" font-size="13" fill="#64748b" text-anchor="middle">This is to certify that the Quality Management System of:</text>
+
+  <!-- Company Name -->
+  <text x="400" y="245" font-family="'Inter', sans-serif" font-size="28" font-weight="900" fill="#0284c7" letter-spacing="1.5" text-anchor="middle">VOLTERA INFRASTRUCTURE SYSTEMS</text>
+
+  <!-- Standard -->
+  <text x="400" y="285" font-family="'Inter', sans-serif" font-size="13" fill="#475569" text-anchor="middle">Has been audited and found to conform to the Quality Standard:</text>
+  
+  <rect x="220" y="305" width="360" height="52" rx="10" fill="#0f172a" filter="url(#shadow)"/>
+  <text x="400" y="340" font-family="'Inter', sans-serif" font-size="24" font-weight="900" fill="#fbbf24" letter-spacing="3" text-anchor="middle">ISO 9001 : 2015</text>
+
+  <!-- Scope -->
+  <text x="400" y="390" font-family="'Inter', sans-serif" font-size="12" fill="#334155" text-anchor="middle" font-weight="600">Scope: Design, Engineering &amp; Manufacturing of Critical Power Protection Systems</text>
+  <text x="400" y="412" font-family="'Inter', sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Uninterruptible Power Supplies (UPS), Modular Power Racks &amp; Energy Storage</text>
+
+  <!-- Signatures & Seal -->
+  <!-- Left: Issuer -->
+  <g transform="translate(130, 480)">
+    <line x1="0" y1="0" x2="160" y2="0" stroke="#94a3b8" stroke-width="1.5"/>
+    <text x="80" y="20" font-family="'Inter', sans-serif" font-size="11" font-weight="700" fill="#0f172a" text-anchor="middle">Auditing Director</text>
+    <text x="80" y="36" font-family="'Inter', sans-serif" font-size="9" fill="#64748b" text-anchor="middle">TÜV SÜD Technical Board</text>
+  </g>
+
+  <!-- Center: Gold Badge Seal -->
+  <g transform="translate(400, 485)">
+    <!-- Ribbon tails -->
+    <path d="M -16 10 L -28 65 L -10 55 L 0 65 L 0 10 Z" fill="#b45309"/>
+    <path d="M 16 10 L 28 65 L 10 55 L 0 65 L 0 10 Z" fill="#d97706"/>
+    <!-- Seal Medallion -->
+    <circle r="36" fill="url(#goldGrad)" stroke="#b45309" stroke-width="2" filter="url(#shadow)"/>
+    <circle r="30" fill="none" stroke="#ffffff" stroke-width="1.5" stroke-dasharray="3,2"/>
+    <circle r="22" fill="#0f172a"/>
+    <text x="0" y="-3" font-family="'Inter', sans-serif" font-size="8" font-weight="800" fill="#fbbf24" text-anchor="middle">OFFICIAL</text>
+    <text x="0" y="9" font-family="'Inter', sans-serif" font-size="9" font-weight="900" fill="#ffffff" text-anchor="middle">SEAL</text>
+  </g>
+
+  <!-- Right: Reg Info -->
+  <g transform="translate(510, 480)">
+    <line x1="0" y1="0" x2="160" y2="0" stroke="#94a3b8" stroke-width="1.5"/>
+    <text x="80" y="20" font-family="'Inter', sans-serif" font-size="11" font-weight="700" fill="#0f172a" text-anchor="middle">Certificate No: QS-882910</text>
+    <text x="80" y="36" font-family="'Inter', sans-serif" font-size="9" fill="#10b981" font-weight="700" text-anchor="middle">Status: Valid Until 2027</text>
+  </g>
+</svg>
